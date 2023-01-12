@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>watches</title>
+        <meta charset="UTF-8">
+        <link rel="shortcut icon" href="C:\Users\Lev\Downloads\popka.png">
+        <link rel="stylesheet" href="C:\Users\Lev\Desktop\verstka\verstka.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;600&display=swap" rel="stylesheet">
+    </head> 
+    <body>
+		<header class="header">
+			<div class="header-container">
+				<div>
+					<p class="header-title">mor705</p>
+					<h1 class="header-subtitle">watch</h1>
+					<p class="header-text">The watch also features a tough and durable sapphire a Swiss Sellita SW200-1 automatic winding movement that has a power reserve</p>
+					<div class="buy-wrapper">
+						<a href="\" class="buy-button">Buy watch</a>
+						<div class="price">1700$</div>
+					</div> 
+				</div>
+				<div class="header-img">
+                    <img src="C:\Users\Lev\Desktop\Images\Mor705.png" alt="Изображение модели часов">
+				</div>
+			</div>
+		</header>
+	    <main class="main-subtitle">
+			<div>
+            	<p class="popular-title">popular</p>
+                <h2 class="model-title">Models</h2>
+			</div>
+			<div>
+				<div class="popka">
+                	<img class="titleson22" src="C:\Users\Lev\Desktop\Images\Son22.png" >
+				</div>
+                <h3 class="item-title">Son22</h3>
+                <p class="item-description">Son22 The watch also features a tough and durable sapphire crystal glass and comes with a Swiss SW200-1 automatic winding movement that has a power re
+					
+            </div>
+            <div>
+                <img class=titlesw12 src="C:\Users\Lev\Desktop\Images\Sw12.png">
+                <h3 class="item-sw12">Sw12</h3>
+                <p class="description-sw12">Sw12 The watch also features a tough and durable sapphire crystal glass and comes with a Sw12-1 automatic winding</p>
+                </div>
+                <div>
+                    <h2 class="footer-title">Product description</h2>
+                    <hr class="hr-footer">
+                    <p class="footer-subtitle">Inspired by the WWI trench watch, this timepiece has a contemporary design with an urban style and a vintage soul. The 22 Design Studio Concrete Sector Watch reinterprets the old timepiece with a concrete dial. Handmade in Taiwan, the dial is cast in one piece using the béton technique<a href="/"class="subtitle-ref" > more detailed </a></p>
+                </div>
+        </main>
+    </body>
+</html>
